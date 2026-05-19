@@ -1,0 +1,15 @@
+name: profile_module
+description: Profile microapp module.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  module_contracts:
+    path: ../module_contracts
+  shared_ui:
+    path: ../shared_ui

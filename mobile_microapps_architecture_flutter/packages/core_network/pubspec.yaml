@@ -1,0 +1,7 @@
+name: core_network
+description: Core network boundary shared by feature modules.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.11.5

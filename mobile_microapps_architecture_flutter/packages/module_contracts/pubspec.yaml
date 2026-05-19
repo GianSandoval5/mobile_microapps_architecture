@@ -1,0 +1,11 @@
+name: module_contracts
+description: Shared contracts used by the shell and every microapp module.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
